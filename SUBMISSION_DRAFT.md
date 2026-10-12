@@ -79,8 +79,7 @@ a second validating walk has not happened.
 ## Try it
 
 Requires Node 22+ and local Ollama with `gemma3:1b`. `npm install`, `npm
-test`, `npm run dev -- -p 3100`. Repository link: *[add repo URL before
-submitting]*. Screenshots: *[capture per README checklist before
+test`, `npm run dev -- -p 3100`. Repository: https://github.com/ayushshandilya-dev/Microwild. Screenshots: *[capture per README checklist before
 submitting]*.
 
 The point was never a smarter chatbot. It was ten minutes outside, looking
